@@ -1,4 +1,3 @@
-console.log("a111");
 function a1 (...args) {
   console.log("args", args);
 }

@@ -1,4 +1,4 @@
-function fn1() {
+export function fn1() {
   console.log("fn1");
 }
 

@@ -1,7 +1,3 @@
-function fn1() {
-  console.log("fn1");
-}
-
 export function deepClone(target) {
   const clone = (value) => {
     if (typeof value === "object" && value === null) return value;
